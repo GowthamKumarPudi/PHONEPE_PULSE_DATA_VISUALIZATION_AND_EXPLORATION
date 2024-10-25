@@ -14,8 +14,8 @@ Data Retrieval: Fetching data from the database to dynamically update the dashbo
 
 NAME : GOWTHAM KUMAR PUDI
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/posts/gowtham-kumar-pudi07_datavisualization-analytics-phonepe-activity-7255540392186540032-GBVT?utm_source=share&utm_medium=member_desktop
 
-BATCH: 
+BATCH: DW73
 
 DOMAIN : DATA SCIENCE
