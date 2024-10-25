@@ -1,4 +1,4 @@
-# PHONEPE_PULSE_DATA_VISUALIZATION_AND_EXPLORATION
+# GUVI_CAPSTONE_PHONEPE_PULSE_DATA_VISUALIZATION_AND_EXPLORATION
 
 The aim of this project is to develop a solution that extracts, transforms, and visualizes data from the Phonepe Pulse GitHub repository. The process involves:
 
